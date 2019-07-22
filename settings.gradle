@@ -1,0 +1,3 @@
+rootProject.name = 'object-store-browser'
+
+include "server", "client"
